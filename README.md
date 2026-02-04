@@ -249,10 +249,6 @@ When you successfully create a project, you'll see this beauty:
 ✓ Project 'your-project-name' created successfully!
 ```
 
-Now go build something awesome! 💪✨
-
----⠀⠀⠀
-
 <div align="center">
 
 Made with ❤️ and lots of ☕
